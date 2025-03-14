@@ -1,48 +1,49 @@
-# 👋 Hi there, I'm AlfiDev!
+# Hi there! I'm **Alfi Dev** 🚀
 
-![GitHub followers](https://img.shields.io/github/followers/AlfiCloud?style=social)
-![GitHub stars](https://img.shields.io/github/stars/AlfiCloud/cloudku-uploader?style=social)
-![GitHub license](https://img.shields.io/github/license/AlfiCloud/cloudku-uploader)
-![GitHub repo size](https://img.shields.io/github/repo-size/AlfiCloud/cloudku-uploader)
+![Profile Views](https://komarev.com/ghpvc/?username=AlfiCloud&color=blueviolet) ![GitHub Followers](https://img.shields.io/github/followers/AlfiCloud?style=social) ![GitHub Stars](https://img.shields.io/github/stars/AlfiCloud?style=social)
 
-## 🚀 About Me
+---
 
-I'm a passionate developer who loves creating efficient and powerful tools for developers. I'm the creator of [CloudkuImages](https://cloudkuimages.com) and the author of **cloudku-uploader**, an NPM package designed for seamless file uploads.
+## 🌟 About Me
 
-## 🛠️ My Projects
+👨‍💻 **Developer & Founder** of [CloudkuImages.com](https://cloudkuimages.com)  
+📦 **Creator** of [Cloudku Uploader](https://www.npmjs.com/package/cloudku-uploader)  
+💡 Passionate in **Web Development, API, and Cloud Storage**  
+⚡ Love **building open-source projects** and contributing to the dev community!
 
-### 🌩️ Cloudku Uploader
+---
 
-[![NPM Version](https://img.shields.io/npm/v/cloudku-uploader)](https://www.npmjs.com/package/cloudku-uploader)
-[![Downloads](https://img.shields.io/npm/dt/cloudku-uploader)](https://www.npmjs.com/package/cloudku-uploader)
+## 📊 GitHub Stats
 
-A powerful Node.js package that allows developers to easily upload files to CloudkuImages.
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfiCloud&show_icons=true&theme=radical"/>
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlfiCloud&theme=radical"/>
+</td>
+</tr>
+</table>
 
-```bash
-npm install cloudku-uploader
-```
+---
 
-#### 🔧 Usage
+## 🏆 GitHub Achievements
 
-```javascript
-const cloudkuUploader = require('cloudku-uploader');
+![Trophy](https://github-profile-trophy.vercel.app/?username=AlfiCloud&theme=darkhub&margin-w=15&row=1)
 
-async function upload() {
-    let result = await cloudkuUploader.uploadFile(Buffer.from("Hello, world!"), "hello.txt");
-    console.log(result);
-}
-upload();
-```
+---
 
-📌 Learn more in the [documentation](https://cloudkuimages.com/docs).
+## 🚀 Tech Stack
 
-## 🌐 Connect with Me
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
-- GitHub: [AlfiDev](https://github.com/AlfiCloud)
-- Website: [CloudkuImages](https://cloudkuimages.com)
-- NPM: [cloudku-uploader](https://www.npmjs.com/package/cloudku-uploader)
+---
 
-## 📜 License
+## 📬 Contact Me
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+📧 **Email:** [cloudku145@gmail.com](mailto:cloudku145@gmail.com)  
+🌐 **Website:** [CloudkuImages](https://cloudkuimages.com)  
+
+Let's connect and collaborate! 🤝🔥
 
