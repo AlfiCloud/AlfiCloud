@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -41,8 +44,10 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Socials
 <p align="left">
   <a href="https://github.com/AlfiCloud"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://cloudkuimages.com"><img src="https://img.shields.io/badge/CloudkuImages-%23000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://wa.me/6287831816747"><img src="https://img.shields.io/badge/WhatsApp-%23000000.svg?logo=WhatsApp&logoColor=white" /></a>
+  <a href="https://www.whatsapp.com/channel/0029VasizxI47XeE2iiave0u"><img src="https://www.whatsapp.com/channel/0029VasizxI47XeE2iiave0u" /></a>
 </p>
