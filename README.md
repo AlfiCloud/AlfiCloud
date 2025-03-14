@@ -49,5 +49,5 @@
   <a href="https://github.com/AlfiCloud"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://cloudkuimages.com"><img src="https://img.shields.io/badge/CloudkuImages-%23000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
   <a href="https://wa.me/6287831816747"><img src="https://img.shields.io/badge/WhatsApp-%23000000.svg?logo=WhatsApp&logoColor=white" /></a>
-  <a href="https://www.whatsapp.com/channel/0029VasizxI47XeE2iiave0u"><img src="https://www.whatsapp.com/channel/0029VasizxI47XeE2iiave0u" /></a>
+  <a href="https://www.whatsapp.com/channel/0029VasizxI47XeE2iiave0u"><img src="https://img.shields.io/badge/WhatsApp%20Channel-%23000000.svg?logo=WhatsApp&logoColor=white" /></a>
 </p>
