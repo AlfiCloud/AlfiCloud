@@ -37,23 +37,24 @@
 
 ---
 
-### 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AlfiCloud&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfiCloud&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Stats & Commit Analysis
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfiCloud&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfiCloud&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 📈 Commit Activity
+### 📈 Commit & Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlfiCloud&theme=radical" />
+</p>
+
+---
+
+### 📊 GitHub Contribution Donut Chart
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AlfiCloud&theme=radical&combine_all_yearly_contributions=true&chart_type=donut" />
 </p>
 
 ---
