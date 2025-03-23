@@ -7,6 +7,13 @@
 
 ---
 
+### 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlfiCloud&theme=radical&no-bg=true&no-frame=true&column=7" />
+</p>
+
+---
+
 ### 🚀 About Me
 - 🔭 I'm the **developer of [CloudkuImages](https://cloudkuimages.com)**
 - 🌱 Currently working on **Cloud-based API and automation tools**
@@ -16,7 +23,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -44,8 +51,15 @@
 
 ---
 
+### 📈 Commit Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlfiCloud&theme=radical" />
+</p>
+
+---
+
 ### 📫 Socials
-<p align="left">
+<p align="center">
   <a href="https://github.com/AlfiCloud"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://cloudkuimages.com"><img src="https://img.shields.io/badge/CloudkuImages-%23000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
   <a href="https://wa.me/6287831816747"><img src="https://img.shields.io/badge/WhatsApp-%23000000.svg?logo=WhatsApp&logoColor=white" /></a>
