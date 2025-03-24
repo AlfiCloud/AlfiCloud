@@ -55,17 +55,10 @@
 
 ---
 
-## 🍩 GitHub Contribution Donut Chart
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AlfiCloud&theme=radical&combine_all_yearly_contributions=true&chart_type=donut" />
-</p>
-
----
-
 ## 🖥️ Development Tools
 <p align="center">
   <a href="https://github.com/AlfiCloud">
-    <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=nautilus" alt="Development Tools" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode,jupyter-notebook&theme=nautilus" alt="Development Tools" />
   </a>
 </p>
 
